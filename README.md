@@ -14,6 +14,4 @@
 [<img align="left" alt="MayelaGalaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/mayela-galaz-795575276
-
-
 -->
