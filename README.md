@@ -1,5 +1,5 @@
 # Hi, my name is Mayela!
-I am a dedicated cybersecurity student focused on learning skills like threat detection, vulnerability management, and secure system practices. I am committed to improving my knowledge and growing in the field of cybersecurity.
+I am a dedicated cybersecurity student focused on learning skills like threat detection, vulnerability management, secure system practices, and much more. I am committed to improving my knowledge and growing in the field of cybersecurity.
 
 <h2> Cybersecurity Projects:</h2>
 
